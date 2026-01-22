@@ -23,6 +23,7 @@ nnoremap <cr> :noh<cr><esc>
 set hlsearch incsearch
 "Регистрозависимость off
 set ignorecase
+set smartcase
 
 "Терминал
 tnoremap <Esc> <C-\><C-n>
