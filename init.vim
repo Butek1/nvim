@@ -21,9 +21,9 @@ set clipboard=unnamedplus
 "удалить подсветку поиска на enter
 nnoremap <cr> :noh<cr><esc>
 set hlsearch incsearch
-
 "Регистрозависимость off
-set ignorecase smartcase
+set ignorecase
+set smartcase
 
 "Терминал
 tnoremap <Esc> <C-\><C-n>
